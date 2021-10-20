@@ -3,9 +3,9 @@ This repo is based on [https://github.com/sagewave/terraform-provider-jumpcloud]
 Functions which were added include
 
 
--	[resource_user_association](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/resource_user_association.go) >= 0.13.x
--	[data_source_applications](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/data_source_applications.go) >= 1.15
--	[data_system_directory](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/data_system_directory.go) >= 1.15
+-	[resource_user_association](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/resource_user_association.go) 
+-	[data_source_applications](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/data_source_applications.go)
+-	[data_system_directory](https://github.com/juniornsa/jumpcloud/blob/main/internal/provider/data_system_directory.go)
 - Updated resource_user to include ssh_key and public_key.
 
 
